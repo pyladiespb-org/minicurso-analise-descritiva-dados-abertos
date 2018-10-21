@@ -1,4 +1,4 @@
-"ano","sq_candidato","nome_candidato.x","descricao_cargo","sigla_partido","desc_sit_cand_tot","sigla_uf","total_votos","sexo","estado_civil","grau_instrucao","descricao_ocupacao","cor_raca","data_nascimento","descricao_nacionalidade"
+"ano","sq_candidato","nome_candidato","descricao_cargo","sigla_partido","desc_sit_cand_tot","sigla_uf","total_votos","sexo","estado_civil","grau_instrucao","descricao_ocupacao","cor_raca","data_nascimento","descricao_nacionalidade"
 2014,10000000001,"GLADSON DE LIMA CAMELI","SENADOR","PP","ELEITO","AC",218756,"MASCULINO","CASADO(A)","SUPERIOR COMPLETO","DEPUTADO","PARDA","26/03/1978","BRASILEIRA NATA"
 2014,10000000158,"CARLOS CESAR CORREIA DE MESSIAS","DEPUTADO FEDERAL","PSB","ELEITO POR QP","AC",26448,"MASCULINO","CASADO(A)","ENSINO FUNDAMENTAL INCOMPLETO","OUTROS","PARDA","05/07/1958","BRASILEIRA NATA"
 2014,10000000163,"LEONARDO CUNHA DE BRITO","DEPUTADO FEDERAL","PT","ELEITO POR QP","AC",20876,"MASCULINO","CASADO(A)","SUPERIOR COMPLETO","ADVOGADO","BRANCA","13/04/1979","BRASILEIRA NATA"
